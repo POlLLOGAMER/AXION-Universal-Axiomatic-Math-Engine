@@ -623,3 +623,5 @@ A: No. AXION is a lightweight educational/research tool. Industrial proof assist
 
 **AXION — Universal Axiomatic Math Engine**  
 *Where formal proofs meet symbolic computation* 🎯
+
+Created by: Kaoru Aguilera Katayama
