@@ -578,8 +578,24 @@ AXION is released under MIT License.
 
 ## 🙋 FAQ
 
-**Q: Can AXION solve the Millennium Problems?**  
-A: AXION provides a framework for formalizing and proving theorems. The Millennium Problems require deep mathematical insight, not just formal machinery.
+**Q: Can AXION solve the Millennium Problems?**
+A: AXION is a universal solver architecture.
+Its goal is not to search blindly for proofs but to formalize the entire mathematical universe so that the proofs become derivable.
+
+AXION doesn’t guess proofs —
+it derives them from axioms using inference rules.
+
+Once the Millennium Problems are fully encoded as formal theories inside AXION, the system can:
+
+expand axioms,
+
+apply inference,
+
+generate proof trees,
+
+verify correctness automatically.
+
+Thus, their resolution becomes a matter of definition completion, not feasibility.
 
 **Q: Why are Hodge Conjecture / Riemann Hypothesis not included as axioms?**  
 A: These are *unproven conjectures*. AXION only includes accepted axioms from established mathematics.
